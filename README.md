@@ -47,7 +47,8 @@ In this project, I learned how to:
 - Work with relative units such as percentages and `vh` for flexible designs
 
 ## Author
-- Frontend Mentor - [@hoor23](https://github.com/hoor23)
+- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
+- Frontend Mentor - [hoor23](https://github.com/hoor23)
 
 ## Acknowledgments
 
