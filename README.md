@@ -22,7 +22,11 @@ This is a simple, responsive product preview card component. It displays differe
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Product preview card component solution: Desktop Design
+![](./desktop-design.jpg)
+
+Product preview card component solution: Mobile Design
+![](./mobile-design.jpg)
 
 ### Links
 
