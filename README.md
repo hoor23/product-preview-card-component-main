@@ -23,10 +23,10 @@ This is a simple, responsive product preview card component. It displays differe
 ### Screenshot
 
 Product preview card component solution: Desktop Design
-![](./desktop-design.jpg)
+![](./design/desktop-design.jpg)
 
 Product preview card component solution: Mobile Design
-![](./mobile-design.jpg)
+![](./design/mobile-design.jpg)
 
 ### Links
 
