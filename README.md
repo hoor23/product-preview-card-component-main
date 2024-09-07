@@ -26,8 +26,8 @@ This is a simple, responsive product preview card component. It displays differe
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/hoor23/product-preview-card-component-main.git](https://github.com/hoor23/product-preview-card-component-main.git)
+- Live Site URL: [https://hoor23.github.io/product-preview-card-component-main/](https://hoor23.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -48,8 +48,6 @@ In this project, I learned how to:
 
 ## Author
 - Frontend Mentor - [@hoor23](https://github.com/hoor23)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
