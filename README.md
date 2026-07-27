@@ -32,8 +32,8 @@ Product preview card component solution: Mobile Design
 
 ### Links
 
-- Solution URL: [https://github.com/hoor23/product-preview-card-component-main.git](https://github.com/hoor23/product-preview-card-component-main.git)
-- Live Site URL: [https://hoor23.github.io/product-preview-card-component-main/](https://hoor23.github.io/product-preview-card-component-main/)
+- Solution URL: [https://github.com/HooriaSaeeda/product-preview-card-component-main.git](https://github.com/HooriaSaeeda/product-preview-card-component-main.git)
+- Live Site URL: [https://hooriasaeeda.github.io/product-preview-card-component-main/](https://hooriasaeeda.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -53,8 +53,9 @@ In this project, I learned how to:
 - Work with relative units such as percentages and `vh` for flexible designs
 
 ## Author
-- Frontend Mentor - [hoor23](https://www.frontendmentor.io/profile/hoor23)
-- Github - [hoor23](https://github.com/hoor23)
+- Github - [HooriaSaeeda](https://github.com/HooriaSaeeda)
+- Frontend Mentor - [HooriaSaeeda](https://www.frontendmentor.io/profile/HooriaSaeeda)
+- Linkedin - [Hoor Seyda](linkedin.com/in/hoor-seyda-901176222)
 
 ## Acknowledgments
 
